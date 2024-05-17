@@ -1,0 +1,14 @@
+.orderContainer {
+  padding: 10px;
+  margin-left: 40px;
+}
+.orderBox {
+  width: 350px;
+  padding: 20px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+.orderDetails {
+  display: flex;
+  justify-content: space-between;
+}
